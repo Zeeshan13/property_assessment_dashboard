@@ -32,47 +32,77 @@ The dashboard is interactive, with tooltips offering additional insights when ho
 + **Top Residential Cities:**
 
     Boston leads in residential property count, followed by Dorchester and South Boston.
+  
+  ![Picture1](https://github.com/user-attachments/assets/5d1030d0-a641-4ac6-8bdb-bd5dfa3c5b1a)
 
-**+ Top Commercial Cities:**
+
++ **Top Commercial Cities:**
 
     Boston also dominates in commercial property counts, followed by Dorchester and Jamaica Plain.
 
-**+ Top Tax-Exempt Cities:**
+  ![image](https://github.com/user-attachments/assets/00479d1e-5926-4e7e-baad-c1e34cd213d7)
+
+
++ **Top Tax-Exempt Cities:**
 
     Boston, Dorchester, and Roxbury have the highest number of tax-exempt properties.
+  
+  ![Picture3](https://github.com/user-attachments/assets/6b28f997-c410-4078-937b-e7c2cc4d5af7)
 
-**+ Building Structure:**
++ **Building Structure:**
 
       - Boston has the highest total building value across all structure types, with significant values in Allston, Brighton, and Dorchester.
-      
+
+  ![Picture4](https://github.com/user-attachments/assets/0a4e6aa3-f2f4-4fb1-a639-7d25d4fe46f2)
+
+
       - Dorchester and East Boston exhibit a diverse range of building structures, indicating varied property types.
 
-**+ Roof Types:**
+  ![Picture5](https://github.com/user-attachments/assets/65deb8b7-0cac-48e9-9eec-afbb96b1b36d)
+
+
+      
+
++ **Roof Types:**
 
        - Asphalt shingle roofs correlate with higher property values, particularly in South Boston and Chestnut Hill.
        
        - Rubber roofs are prevalent in West Roxbury, Hyde Park, and Roslindale.
 
+  ![Picture6](https://github.com/user-attachments/assets/df072009-1aa7-476f-85b9-e2b41d49b1a5)
+
+
 # Methodology
 
-**+ Data Cleaning:** Filtered the dataset to focus on key property characteristics and grouped land use types into residential, commercial, and tax-exempt.
++ **Data Cleaning:** Filtered the dataset to focus on key property characteristics and grouped land use types into residential, commercial, and tax-exempt.
 
-**+ Visualization:** Created bar plots, treemaps, and maps to display property distribution, building structures, and roof types.
++ **Visualization:** Created bar plots, treemaps, and maps to display property distribution, building structures, and roof types.
 
-**+ Interactivity:** Tooltips were added for a detailed view of the data, including average property values and areas when hovering over the plots.
++ **Interactivity:** Tooltips were added for a detailed view of the data, including average property values and areas when hovering over the plots.
 
 
 # Conclusion
 
 The analysis provides actionable insights for stakeholders:
 
-**+ Residential Investments:** Boston, Dorchester, and South Boston offer significant opportunities for residential investments.
-**+ Commercial Opportunities:** Boston dominates in commercial properties, with notable opportunities in Dorchester and South Boston.
-**+ Tax-Exempt Property Development:** Cities like Boston, Roxbury, and Jamaica Plain could be targeted for tax-exempt property development.
-**+ Structure Diversity:** Dorchester and East Boston's diverse property structures present varied investment opportunities.
-**+ Roof-Specific Investments:** Asphalt shingle roofs are associated with higher property values, while rubber roofs are more common in West Roxbury.
++ **Residential Investments:** Boston, Dorchester, and South Boston offer significant opportunities for residential investments.
+
++ **Commercial Opportunities:** Boston dominates in commercial properties, with notable opportunities in Dorchester and South Boston.
+
++ **Tax-Exempt Property Development:** Cities like Boston, Roxbury, and Jamaica Plain could be targeted for tax-exempt property development.
+
++ **Structure Diversity:** Dorchester and East Boston's diverse property structures present varied investment opportunities.
+
++ **Roof-Specific Investments:** Asphalt shingle roofs are associated with higher property values, while rubber roofs are more common in West Roxbury.
 
 
 # How to Use the Dashboard
 
 Explore the interactive Tableau dashboard by hovering over different elements to gain insights into property distribution, building structures, and valuation trends. The visualizations are designed to be user-friendly and provide valuable insights for anyone interested in the Massachusetts real estate market.
+
+![Picture7](https://github.com/user-attachments/assets/3c78e444-0a59-458c-87f2-8b918fbc3694)
+
+
+Here is the link for the Tableau Dashboard: 
+
+https://public.tableau.com/views/BostonPropertyDistribution/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
